@@ -10,5 +10,5 @@ Referencies:
 - [https://github.com/first20hours/google-10000-english](https://github.com/first20hours/google-10000-english)
 
 
-Licese for the code in this repo is [MIT license](https://github.com/antonpavlov/lettersoupe/blob/master/LICENSE). 
+License for the code in this repo is the [MIT license](https://github.com/antonpavlov/lettersoupe/blob/master/LICENSE). 
 I am not claiming ownership of the data in references.
